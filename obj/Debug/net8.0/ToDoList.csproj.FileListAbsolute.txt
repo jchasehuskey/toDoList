@@ -1,0 +1,14 @@
+/Users/chasehuskey/Desktop/ToDoList/bin/Debug/net8.0/ToDoList
+/Users/chasehuskey/Desktop/ToDoList/bin/Debug/net8.0/ToDoList.deps.json
+/Users/chasehuskey/Desktop/ToDoList/bin/Debug/net8.0/ToDoList.runtimeconfig.json
+/Users/chasehuskey/Desktop/ToDoList/bin/Debug/net8.0/ToDoList.dll
+/Users/chasehuskey/Desktop/ToDoList/bin/Debug/net8.0/ToDoList.pdb
+/Users/chasehuskey/Desktop/ToDoList/obj/Debug/net8.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chasehuskey/Desktop/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfoInputs.cache
+/Users/chasehuskey/Desktop/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfo.cs
+/Users/chasehuskey/Desktop/ToDoList/obj/Debug/net8.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/chasehuskey/Desktop/ToDoList/obj/Debug/net8.0/ToDoList.dll
+/Users/chasehuskey/Desktop/ToDoList/obj/Debug/net8.0/refint/ToDoList.dll
+/Users/chasehuskey/Desktop/ToDoList/obj/Debug/net8.0/ToDoList.pdb
+/Users/chasehuskey/Desktop/ToDoList/obj/Debug/net8.0/ToDoList.genruntimeconfig.cache
+/Users/chasehuskey/Desktop/ToDoList/obj/Debug/net8.0/ref/ToDoList.dll
